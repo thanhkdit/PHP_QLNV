@@ -1,0 +1,29 @@
+
+#list-position tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+#list-position a i{
+  padding: 10px !important;
+}
+#add-position div.form-group{
+  text-align: right;
+}
+#add-position div.button{
+  text-align: center;
+}
+#add-position label{
+  font-size: 18px;
+  font-weight: bold;
+}
+#update-position div.form-group{
+  text-align: right;
+}
+#update-position div.button{
+  text-align: center;
+}
+#update-position label{
+  font-size: 18px;
+  font-weight: bold;
+}

@@ -1,0 +1,29 @@
+
+#list-department tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+#list-department a i{
+  padding: 10px !important;
+}
+#add-department div.form-group{
+  text-align: right;
+}
+#add-department div.button{
+  text-align: center;
+}
+#add-department label{
+  font-size: 18px;
+  font-weight: bold;
+}
+#update-department div.form-group{
+  text-align: right;
+}
+#update-department div.button{
+  text-align: center;
+}
+#update-department label{
+  font-size: 18px;
+  font-weight: bold;
+}

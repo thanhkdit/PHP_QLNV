@@ -1,0 +1,29 @@
+
+#list-contract tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+#list-contract a i{
+  padding: 10px !important;
+}
+#add-contract div.form-group{
+  text-align: right;
+}
+#add-contract div.button{
+  text-align: center;
+}
+#add-contract label{
+  font-size: 18px;
+  font-weight: bold;
+}
+#update-contract div.form-group{
+  text-align: right;
+}
+#update-contract div.button{
+  text-align: center;
+}
+#update-contract label{
+  font-size: 18px;
+  font-weight: bold;
+}

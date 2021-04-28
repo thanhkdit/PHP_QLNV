@@ -1,0 +1,6 @@
+.success, .success:focus{
+  background-color: white;
+}
+.error, .error:focus{
+  background-color: pink;
+}

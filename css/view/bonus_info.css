@@ -1,0 +1,29 @@
+
+#list-bonusInfo tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+#list-bonusInfo a i{
+  padding: 10px !important;
+}
+#add-bonusInfo div.form-group{
+  text-align: right;
+}
+#add-bonusInfo div.button{
+  text-align: center;
+}
+#add-bonusInfo label{
+  font-size: 18px;
+  font-weight: bold;
+}
+#update-bonusInfo div.form-group{
+  text-align: right;
+}
+#update-bonusInfo div.button{
+  text-align: center;
+}
+#update-bonusInfo label{
+  font-size: 18px;
+  font-weight: bold;
+}

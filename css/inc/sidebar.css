@@ -1,0 +1,36 @@
+#sidebar{
+  height: 110vh;
+  background-color: #2F323A;
+}
+#sidebar span, a{
+  font-size: 16px;
+  font-weight: bold;
+}
+.menu-btn{
+  display: block;
+  color: white;
+  padding: 25px 15px;
+}
+.menu-btn i{
+  font-size: 12px;
+  float: right;
+  padding-top: 7px;
+}
+.menu-btn:hover{
+  color: #4CCEE8;
+}
+ul li .sub-menu{
+  background-color: #3498DB;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+ul li .sub-menu a{
+  display: block;
+  color: white;
+  padding: 15px 25px;
+  border-bottom: 1px solid #8FC5E9;
+  width: 100%;
+}
+ul li .sub-menu a:hover{
+  background-color: #55B1F0;
+}

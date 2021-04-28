@@ -1,0 +1,29 @@
+
+#list-employee tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+#list-employee a i{
+  padding: 10px !important;
+}
+#add-employee div.form-group{
+  text-align: right;
+}
+#add-employee div.button{
+  text-align: center;
+}
+#add-employee label{
+  font-size: 18px;
+  font-weight: bold;
+}
+#update-employee div.form-group{
+  text-align: right;
+}
+#update-employee div.button{
+  text-align: center;
+}
+#update-employee label{
+  font-size: 18px;
+  font-weight: bold;
+}

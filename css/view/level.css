@@ -1,0 +1,29 @@
+
+#list-level tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+#list-level a i{
+  padding: 10px !important;
+}
+#add-level div.form-group{
+  text-align: right;
+}
+#add-level div.button{
+  text-align: center;
+}
+#add-level label{
+  font-size: 18px;
+  font-weight: bold;
+}
+#update-level div.form-group{
+  text-align: right;
+}
+#update-level div.button{
+  text-align: center;
+}
+#update-level label{
+  font-size: 18px;
+  font-weight: bold;
+}

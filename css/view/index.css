@@ -1,0 +1,14 @@
+.body .content h3{
+  color: rgb(209, 88, 0);
+  font-weight: bold;
+  padding: 15px;
+}
+.row{
+  width: 100%;
+}
+td{
+  font-size: 18px;
+}
+input.input-select{
+  float: left;
+}

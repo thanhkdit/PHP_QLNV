@@ -1,0 +1,29 @@
+
+#list-fineDetail tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+#list-fineDetail a i{
+  padding: 10px !important;
+}
+#add-fineDetail div.form-group{
+  text-align: right;
+}
+#add-fineDetail div.button{
+  text-align: center;
+}
+#add-fineDetail label{
+  font-size: 18px;
+  font-weight: bold;
+}
+#update-fineDetail div.form-group{
+  text-align: right;
+}
+#update-fineDetail div.button{
+  text-align: center;
+}
+#update-fineDetail label{
+  font-size: 18px;
+  font-weight: bold;
+}

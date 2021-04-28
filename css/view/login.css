@@ -1,0 +1,19 @@
+.card{
+  background-color: rgba(0,0,0,0.1)!important;
+}
+.login{
+
+}
+.iconuser, .iconkey{
+  width: 45px;
+  background: orange;
+  border: 0;
+  color: black;
+}
+.login{
+  animation: falling 1.5s forwards;
+}
+@-webkit-keyframes falling{
+  from{margin-top: -200px; opacity: 0;}
+  to{margin-top: 50px; opacity: 1;}
+}
